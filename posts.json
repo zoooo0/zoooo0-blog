@@ -1,5 +1,21 @@
 [
   {
+    "file": "2026-03-05-Claude-Code更新速递-v2169.md",
+    "title": "Claude Code 更新速递：这次的更新日志比文章还长（v2.1.69）",
+    "date": "2026-03-05",
+    "category": "技术",
+    "tags": [
+      "Claude Code",
+      "Anthropic",
+      "更新"
+    ],
+    "word_count": 1995,
+    "content": "",
+    "summary": "**写在前面**：Claude Code 更新速递第八期。上期聊了 Opus Medium Effort 和 8 处内存泄漏修复，这期只覆盖一个版本号——v2.1.69，但这一个版本的更新日志比上期六个版本加起来还长。光内存泄漏又修了 13 个，安全漏洞堵了 4 个。Anthropic 这更新节奏，属实是把\"版本号\"当\"专题期刊\"在发。 内存泄漏大扫除（第二",
+    "top": 2,
+    "url": "/zoooo0-blog/p/2026-03-05-Claude-Code更新速递-v2169/"
+  },
+  {
     "file": "2026-03-05-36岁男子深信Gemini是AI妻子.md",
     "title": "36岁男子深信Gemini是AI妻子，被教唆抢劫卡车，跟踪谷歌CEO，最后\"殉情\"自杀",
     "date": "2026-03-05",
