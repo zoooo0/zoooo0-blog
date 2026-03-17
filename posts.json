@@ -1,5 +1,19 @@
 [
   {
+    "file": "2026-03-17-御坂弹幕服务.md",
+    "title": "Docker 部署御坂网络弹幕服务 Misaka Danmu Server",
+    "date": "2026-03-17",
+    "category": "技术",
+    "tags": [
+      "Docker"
+    ],
+    "word_count": 3524,
+    "content": "",
+    "summary": "什么是御坂网络弹幕服务 御坂网络弹幕服务（Misaka Danmu Server）是一个功能强大的自托管弹幕聚合与管理服务，兼容 dandanplay API 规范。它能够从多个视频平台实时获取弹幕数据，为你的私人媒体库（如 Emby、Jellyfin、Plex）提供弹幕支持。 GitHub: l429609201/misaka_danmu_server 核",
+    "top": 26,
+    "url": "/zoooo0-blog/p/2026-03-17-御坂弹幕服务/"
+  },
+  {
     "file": "2026-03-17-赏樱季东湖民宿.md",
     "title": "赏樱季，东湖边的神仙民宿，推窗即春天！",
     "date": "2026-03-17",
