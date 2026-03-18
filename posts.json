@@ -1,5 +1,19 @@
 [
   {
+    "file": "2026-03-18-openclaw-agent-telegram-subagent.md",
+    "title": "我对 OpenClaw 又改观了：让 Agent 既能私聊，又能被调度协作",
+    "date": "2026-03-18",
+    "category": "AI",
+    "tags": [
+      "OpenClaw"
+    ],
+    "word_count": 3124,
+    "content": "",
+    "summary": "今天在 Linux.do 看到一篇挺实用的 OpenClaw 配置经验帖，核心是在 **同一个 OpenClaw 体系里，让不同 Agent 既能作为独立 Telegram Bot 私聊，又能被主 Agent 当作 subagent 调度协作**。 我把关键思路整理成一版更适合回看的笔记。 这篇文章主要讲了什么 原帖标题：**《我对 Openclaw 又改观",
+    "top": 29,
+    "url": "/zoooo0-blog/p/2026-03-18-openclaw-agent-telegram-subagent/"
+  },
+  {
     "file": "2026-03-17-哈贝马斯依然相信现代性.md",
     "title": "哈贝马斯依然相信现代性",
     "date": "2026-03-17",
