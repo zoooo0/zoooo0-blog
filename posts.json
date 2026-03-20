@@ -1,5 +1,19 @@
 [
   {
+    "file": "2026-03-20-ppt-agent-complete-workflow.md",
+    "title": "应该是目前最强的 PPT Agent，附上完整思路分享",
+    "date": "2026-03-20",
+    "category": "AI",
+    "tags": [
+      "PPT"
+    ],
+    "word_count": 1630,
+    "content": "",
+    "summary": "原帖地址：<https://linux.do/t/topic/1782304> 这篇帖子讲的是：如何把 **需求调研 → 资料搜集 → 大纲策划 → 页面策划稿 → SVG 设计生成** 这一整套人类级 PPT 工作流交给 AI，让它不再只是模板套壳，而是更像一个真正的 PPT 专家团队。 这篇 Linux.do 帖子分享了一套作者自认为“目前最强”的 PP",
+    "top": 31,
+    "url": "/zoooo0-blog/p/2026-03-20-ppt-agent-complete-workflow/"
+  },
+  {
     "file": "2026-03-20-cs2-hltv-reload-update-tyloo-faze.md",
     "title": "史无前例的换弹更新，对职业哥和普通玩家谁的影响更大？TYLOO与FaZe今日生死战",
     "date": "2026-03-20",
