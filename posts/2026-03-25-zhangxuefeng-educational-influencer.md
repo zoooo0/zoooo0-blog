@@ -6,32 +6,48 @@ tags: 人物
 top: 33
 ---
 
-讲个故事。张雪峰去世。
-
-就在三年前，张雪峰还在社交媒体上发过一张照片：“因为过度劳累，胸闷心悸，大晚上的被医院收治强制住院了。”配图是医院白色床单和一张疲惫的脸。那时正值高考志愿填报最焦灼时段，直播间涌动着数以万计家长，每天连续几小时直播、连麦、答疑，下了播还要赶赴各地进行线下讲座，行程表以分钟计算。
-
 
 ![图片1](../../assets/2026-03-25-zhangxuefeng-educational-influencer/1.jpg)
 
 
+讲个故事。张雪峰去世。
+
+
+![图片2](../../assets/2026-03-25-zhangxuefeng-educational-influencer/2.jpg)
+
+
+
+![图片3](../../assets/2026-03-25-zhangxuefeng-educational-influencer/3.jpg)
+
+
+就在三年前，张雪峰还在社交媒体上发过一张照片：“因为过度劳累，胸闷心悸，大晚上的被医院收治强制住院了。”配图是医院白色床单和一张疲惫的脸。那时正值高考志愿填报最焦灼时段，直播间涌动着数以万计家长，每天连续几小时直播、连麦、答疑，下了播还要赶赴各地进行线下讲座，行程表以分钟计算。
+
 很多人注意到张雪峰直播时嘴唇就有缺氧的症状。但他从未停下。那次被迫住院休养。是一台长期超负荷运转的身体机器发出的刺耳警报。
+
+
+![图片4](../../assets/2026-03-25-zhangxuefeng-educational-influencer/4.jpg)
+
 
 但出院之后张雪峰公开的日程依然让人心惊：日均睡眠4小时，单日8场讲座，全年无休出差，直播间日均工作12小时。有网友翻出他直播片段，偶尔会看到他下意识揉胸口、按太阳穴。他自己曾说：“有时候直播到一半会心慌。”
 
 张雪峰实在是太拼了。某种意义上，他就是那些看他直播的各种考生们的榜样、偶像、未来，是成功二字的定义者。
 
 
-![图片2](../../assets/2026-03-25-zhangxuefeng-educational-influencer/2.jpg)
+![图片5](../../assets/2026-03-25-zhangxuefeng-educational-influencer/5.jpg)
 
 
 张雪峰的崛起是典型“东北穷小子逆袭记”。1984年出生于齐齐哈尔贫困农村的张子彪，高中时早恋被抓，成绩一落千丈，父亲一句“要么滚去读中专接我班，要么给我考回来”抽醒了他。
 
 见过父亲在铁路上扛钢轨的辛苦，他不想过那样的人生。接下来聪明又勤奋的张子彪上演了 一出学渣逆袭，硬是把成绩拽回全县第60名，考入郑州大学给排水工程专业。
 
+
+![图片6](../../assets/2026-03-25-zhangxuefeng-educational-influencer/6.jpg)
+
+
 几乎有整整十年，他一直就是一个在讲台一线苦熬着的北漂考研讲师。转折发生2016年6月。一段《七分钟解读34所985高校》视频疯传，播放量十几亿。视频里张雪峰操着浓重东北口音，把各高校特点讲得像单口相声，一夜爆红。32岁的张雪峰顺势成立公司，从考研咨询切入高考志愿填报蓝海。年轻的讲师成了年轻的企业家，从此一路向上。
 
 
-![图片3](../../assets/2026-03-25-zhangxuefeng-educational-influencer/3.jpg)
+![图片7](../../assets/2026-03-25-zhangxuefeng-educational-influencer/7.jpg)
 
 
 流量来得凶猛，也迅速成为枷锁。
@@ -40,49 +56,34 @@ top: 33
 
 张雪峰一直提到公司账户上趴着的巨额现金，还有他直播的观看人数，他每个月的跑步量，这些数字都像一枚枚勋章，证明着自律，也掩盖消耗。
 
+
+![图片8](../../assets/2026-03-25-zhangxuefeng-educational-influencer/8.jpg)
+
+
 事实上，最近很多猝死的成功者都是时代的“拼命三郎”。他用健康换收入，用当下搏未来，用看上去的自律掩盖身体已经累积的亏空。
 
 张雪峰有次在直播中谈及自己的死亡，“如果有一天我死了，各大平台会有个热搜叫张雪峰死了。他可能会成为一代人的那种回忆”。
 
+
+![图片9](../../assets/2026-03-25-zhangxuefeng-educational-influencer/9.jpg)
+
+
 你看，即便谈及死亡，这位拼命三郎，也把它视为一种“会让人记住”的骄傲。
+
+
+![图片10](../../assets/2026-03-25-zhangxuefeng-educational-influencer/10.jpg)
+
 
 而如今一语成谶，张雪峰的离世，是时代的一记警钟，提醒每个人：身体才是我们唯一的底牌。
 
 在崇拜成功、崇拜流量的时代，我们或许更该学会崇拜健康，崇拜那个能陪你走到最后的身躯。那个耀眼的成功的B面，从来不是更辉煌的成就，而是一本本身体的血泪账。算清楚这笔账，可能比拿到任何一张华丽的成绩单，都更需要智慧，也更需要勇气。
+
+
+![图片11](../../assets/2026-03-25-zhangxuefeng-educational-influencer/11.jpg)
+
 
 &nbsp;期待您的加入
 
 未经授权转载图文者必究
 
 如有转载需求请联系后台
-
-
-![图片4](../../assets/2026-03-25-zhangxuefeng-educational-influencer/4.jpg)
-
-
-
-![图片5](../../assets/2026-03-25-zhangxuefeng-educational-influencer/5.jpg)
-
-
-
-![图片6](../../assets/2026-03-25-zhangxuefeng-educational-influencer/6.jpg)
-
-
-
-![图片7](../../assets/2026-03-25-zhangxuefeng-educational-influencer/7.jpg)
-
-
-
-![图片8](../../assets/2026-03-25-zhangxuefeng-educational-influencer/8.jpg)
-
-
-
-![图片9](../../assets/2026-03-25-zhangxuefeng-educational-influencer/9.jpg)
-
-
-
-![图片10](../../assets/2026-03-25-zhangxuefeng-educational-influencer/10.jpg)
-
-
-
-![图片11](../../assets/2026-03-25-zhangxuefeng-educational-influencer/11.jpg)
