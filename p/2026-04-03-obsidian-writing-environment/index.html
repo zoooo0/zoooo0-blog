@@ -310,7 +310,7 @@
       <span><i class="fa-regular fa-calendar"></i> 2026-04-03</span>
       <span><i class="fa-regular fa-folder"></i> 效率工具</span>
       <span><i class="fa-regular fa-hashtag"></i> Obsidian, 博客, 效率, 插件, Markdown</span>
-      <span><i class="fa-regular fa-file-word"></i> 2,636</span>
+      <span><i class="fa-regular fa-file-word"></i> 2,912</span>
     </div>
     <article class="markdown-body"><p>前段时间 Obsidian 非常火，于是我决定上手学习一下。发现自己有挺多文章需要归纳和处理，所以准备花时间尝尝鲜。</p>
 <p>折腾了一圈之后，发现这套组合比想象中顺手很多。这篇文章记录一下我的配置，顺便把迁移途中踩的几个坑也说清楚，希望能帮到同样想尝试的朋友。</p>
@@ -424,6 +424,19 @@ with open('article.md', 'w') as f:
 <li><strong>迁移的坑</strong>主要在 HTML 转 Markdown 这一步，用对工具基本没什么大问题</li>
 </ol>
 <p>如果你也在用 Halo 或其他平台写博客、想迁移到 Obsidian 管理，按这个流程来应该能少走不少弯路。</p>
+<h2>常见问题：隐私文档怎么处理？</h2>
+<p>很多人担心把 Obsidian 全部开放给 AI 会有隐私问题。这个问题在 V2EX 评论区也有人提到：</p>
+<blockquote>
+<p><strong>问</strong>：Obsidian 中全部开放权限给 Claude 么？一些隐私文档咋处理？</p>
+<p><strong>答</strong>：Claude Code 有权限控制，你可以自己授权什么文件夹它可以读取，哪些需要询问你。</p>
+</blockquote>
+<p><strong>解决方案</strong>：</p>
+<ol>
+<li><strong>分文件夹授权</strong> — 敏感文档放在单独文件夹，不给 AI 读取权限</li>
+<li><strong>询问机制</strong> — 设置某些文件夹访问时需要手动确认</li>
+<li><strong>最小权限原则</strong> — 只给 AI 工作必需的文件夹权限</li>
+</ol>
+<p>这样既能享受 AI 辅助写作的便利，又能保护隐私文档安全。</p>
 <hr>
 <p><strong>参考来源</strong>：<a href="https://www.v2ex.com/t/1201962">V2EX</a></p></article>
 
